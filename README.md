@@ -1,4 +1,4 @@
-# 💳 Credit Score Classification & Regression
+# 💳 Credit Score Classification and Overdue Days Regression
 
 신용정보 데이터셋을 이용한 신용점수 Classification과 연체일수 Regression
 
@@ -23,7 +23,7 @@
 │   │   ├── ft_transformer.ipynb
 │   │   ├── logistic_regression.ipynb
 │   │   └── ensemble.ipynb
-│   └── 📁 03_regression/             # (예정)
+│   └── 📁 03_regression/              
 |── 📁 reports/
 │   ├── 01_Proposal report.pdf
 │   ├── 02_Progress report.pdf
